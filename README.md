@@ -4,10 +4,9 @@
 ## Description
 This project aims to develop a liver cancer detection system using deep learning techniques. The system utilizes a RetinaNet model trained on a dataset of liver CT scan images to identify cancerous tumors.
 
-## Features
 - Detection of cancerous tumors in liver slices 2D images extracted from CT scan 3D images
-- Evaluation of model performance using Mean Average Precision (mAP) metrics
 - Data preprocessing and augmentation techniques
+- Evaluation of model performance using Mean Average Precision (mAP) metrics
 - Comparison of different model variations and parameter settings
 
 ## Results
