@@ -1,4 +1,4 @@
-# AIforHealthcare-ObjectDetection
+# AI for Healthcare - Liver tumors Detection
 
 
 ## Description
