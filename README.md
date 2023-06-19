@@ -1,5 +1,13 @@
 # AI for Healthcare - Liver tumors Detection
 
+In our collaboration, we employ three distinct Jupyter notebooks, each serving a specific purpose within our workflow:
+
+1. **Data Preprocessing**: This notebook serves as a platform for us to examine and prepare our dataset meticulously. The objective is to ensure data consistency and optimize it for our machine learning model.
+
+2. **Model Training**: Here, we utilize the prepared slices of data to generate appropriate dataframes. We subsequently train our model using these dataframes, leveraging the power and efficiency of Microsoft Azure.
+
+3. **Experimentation and Evaluation**: This notebook facilitates the conduction of experiments and a comprehensive evaluation of the fine-tuned models' results. This step is crucial in validating our model's performance and is primarily executed on Google Colab.
+
 
 ## Description
 This project aims to develop a liver cancer detection system using deep learning techniques. The system utilizes a RetinaNet model trained on a dataset of liver CT scan images to identify cancerous tumors.
